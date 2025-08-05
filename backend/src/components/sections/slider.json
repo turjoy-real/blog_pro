@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_sliders",
+  "info": {
+    "displayName": "Slider",
+    "icon": "cloud",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "s": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Index": {
+      "type": "string"
+    }
+  }
+}

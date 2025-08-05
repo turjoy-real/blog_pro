@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_slider_2s",
+  "info": {
+    "displayName": "Slider_2",
+    "icon": "apps",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Images_2": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

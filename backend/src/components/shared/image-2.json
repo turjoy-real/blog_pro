@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_image_2s",
+  "info": {
+    "displayName": "Image_2",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image_2": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

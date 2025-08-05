@@ -1,0 +1,7 @@
+node_modules
+readme-images
+.vscode
+.DS_Store
+# seed-data.tar.gz
+yarn.lock
+README.md
